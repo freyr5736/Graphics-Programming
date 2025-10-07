@@ -1,0 +1,6 @@
+g++ -o display_window display_window.cpp -lX11      # to compile
+./display_window                                    # to run
+
+Compile and Run
+    g++ -o display_window display_window.cpp -lX11
+    ./display_window                                    
